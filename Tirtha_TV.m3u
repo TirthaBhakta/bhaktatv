@@ -4,9 +4,6 @@
 #EXTINF:-1,Star Jalsa
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
-#EXTINF:-1,Zee Bangla
-https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
-
 #EXTINF:-1,Jalsha Movie HD
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
@@ -163,9 +160,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1,Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1,Enter10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
 #EXTINF:-1,News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
@@ -256,9 +250,6 @@ http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",DHOOM MUSIC
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",COLORS BANGLA HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108781
-
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
 
@@ -306,3 +297,18 @@ https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India", E24
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS BANGLA.png" ,COLORS BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=908665&extension=ts&play_token=AeseKXSSNK
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225786.png",  ZEE BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
+http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225786&extension=ts&play_token=WZOaifGG7Y
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Hinde Movies 3
+https://vods2.aynaott.com/hindimovies/index.m3u8
