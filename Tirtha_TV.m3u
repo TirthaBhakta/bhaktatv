@@ -44,7 +44,7 @@ https://live.shamim-iptv.workers.dev/MAASRANGATVHD.m3u8
 https://live.shamim-iptv.workers.dev/DEEPTOTVHD.m3u8
 
 #EXTINF:-1,ATN Bangla
-https://live.shamim-iptv.workers.dev/ATNBANGLAHD.m3u8
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=165526&extension=ts&play_token=LEwvXK0rvZ
 
 #EXTINF:-1,Channel i
 https://live.shamim-iptv.workers.dev/CHANNELIHD.m3u8
@@ -76,8 +76,8 @@ https://live.shamim-iptv.workers.dev/DESHTV.m3u8
 #EXTINF:-1,Jago News 24
 https://live.shamim-iptv.workers.dev/jagonews24.m3u8
 
-#EXTINF:-1,Asian TV
-https://live.shamim-iptv.workers.dev/ASIANTVHD.m3u8
+#EXTINF:-1,Desh bideshe
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=225744&extension=ts&play_token=98HieIvfou
 
 #EXTINF:-1,Mohona TV
 https://live.shamim-iptv.workers.dev/MOHONATVHD.m3u8
@@ -122,7 +122,7 @@ http://103.151.60.204:881/A-Sports/video.m3u8
 https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
 
 #EXTINF:-1,STAR SPORTS 1 
-http://103.151.60.204:881/StarSports1/video.m3u8
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104673&extension=ts&play_token=VL6AnTnn5V
 
 #EXTINF:-1,STAR SPORTS 2
 http://103.151.60.204:881/StarSports2/video.m3u8
@@ -199,47 +199,47 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 #EXTINF:-1,Sony Sab
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 
-#EXTINF:-1,Yrf Music
+#EXTINF:-1, Yrf Musicgroup-title="Music"
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62ec/147/854x480_1724104/index.m3u8
 
-#EXTINF:-1,Zoom
+#EXTINF:-1,group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1,YRF Music HD
+#EXTINF:-1,group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
-#EXTINF:-1,Music India
+#EXTINF:-1,group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1,B4U music
+#EXTINF:-1,group-title="Music",B4U music
 https://live.shamim-iptv.workers.dev/b4umusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Hindi Hits HD
+#EXTINF:-1 group-title="Music", tvg-logo="https://imgur.com/79g2kMA.png",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Zoo Music
+#EXTINF:-1 group-title="Music",tvg-logo="https://imgur.com/79g2kMA.png",Zoo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1,Music Mastii
+#EXTINF:-1,group-title="Music",Music Mastii
 https://live.shamim-iptv.workers.dev/musicmastii.m3u8
 
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1,group-title="Music",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Music",Zing
+#EXTINF:-1 group-title="Music",tvg-logo="https://imgur.com/79g2kMA.png" group-title="Music",Zing
 http://103.159.180.34:5001/live/585.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",DHOOM MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",DHOOM MUSIC
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104678&extension=ts&play_token=4WeF0zcpvZ
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
@@ -256,13 +256,13 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",SOmoy Live
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Bhojpuri Cinema
 https://cdn-4.pishow.tv/live/233/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Willow Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sanonda TV
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance
@@ -277,10 +277,10 @@ https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba5
 #EXTINF:-1 group-title="Bangla", ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 group-title="Bangla", ZB Music
+#EXTINF:-1 group-title="Music", ZB Music
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="India", E24
+#EXTINF:-1 group-title="Music", E24
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS BANGLA.png" ,COLORS BANGLA
@@ -346,3 +346,29 @@ https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMp
 #EXTINF:-1 ,ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
+#EXTINF:-1, WILLOW CRICKET EXTRA
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1142110&extension=ts&play_token=JWLaRoGWXT
+
+#EXTINF:-1, ASTRO CRICKET HD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104670&extension=ts&play_token=mmR7kl1Gb1
+
+#EXTINF:-1,TENS SPORTS
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106878&extension=ts&play_token=HpM8D2FfkG
+
+#EXTINF:-1,GEO SUPER
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106886&extension=ts&play_token=X6fhziMlgF
+
+#EXTINF:-1,HINDI| TATA SKY BOLLYWOOD HD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=156028&extension=ts&play_token=n2hHFMO01x
+
+#EXTINF:-1,HINDI| NICK+ FHD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1540022&extension=ts&play_token=bAlKRzHjzg
+
+#EXTINF:-1,group-title="Music", MTV,
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=280760&extension=ts&play_token=dMQlTk3R3Q
+
+#EXTINF:-1, HUNGAMA
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=156171&extension=ts&play_token=ejpreesavO
+
+#EXTINF:-1, DANGAL
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=156049&extension=ts&play_token=i8VDK1sHVj
