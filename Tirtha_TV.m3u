@@ -23,40 +23,40 @@ https://live.shamim-iptv.workers.dev/channel1.m3u8
 https://live.shamim-iptv.workers.dev/BTV.m3u8
 
 #EXTINF:-1,Somoy tv
-https://live.shamim-iptv.workers.dev/SOMOYTVHD.m3u8
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
 #EXTINF:-1,EKTTOR tv
-https://live.shamim-iptv.workers.dev/EKATTORTVHD.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
 #EXTINF:-1,INDEPENDENT TV
 https://live.shamim-iptv.workers.dev/INDEPENDENTTV.m3u8
 
 #EXTINF:-1,ATN NEWS
-https://live.shamim-iptv.workers.dev/ATNNEWS.m3u8
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
 #EXTINF:-1,Banglavison
-https://live.shamim-iptv.workers.dev/BANGLAVISION.m3u8
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
 #EXTINF:-1,Maasranga
-https://live.shamim-iptv.workers.dev/MAASRANGATVHD.m3u8
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1,Deepto Tv
-https://live.shamim-iptv.workers.dev/DEEPTOTVHD.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1,ATN Bangla
-http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=165526&extension=ts&play_token=LEwvXK0rvZ
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 #EXTINF:-1,Channel i
-https://live.shamim-iptv.workers.dev/CHANNELIHD.m3u8
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1,NTV
-https://live.shamim-iptv.workers.dev/NTV.m3u8
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1,News 24
-https://live.shamim-iptv.workers.dev/NEWS24HD.m3u8
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
 #EXTINF:-1,DBC News
-https://live.shamim-iptv.workers.dev/DBCNEWSHD.m3u8
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1,Channel 9
 https://live.shamim-iptv.workers.dev/CHANNEL9HD.m3u8
@@ -65,16 +65,7 @@ https://live.shamim-iptv.workers.dev/CHANNEL9HD.m3u8
 https://live.shamim-iptv.workers.dev/MYTVHD.m3u8
 
 #EXTINF:-1,R tv
-https://live.shamim-iptv.workers.dev/RTVHD.m3u8
-
-#EXTINF:-1,global TV
-https://live.shamim-iptv.workers.dev/globaltv.m3u8
-
-#EXTINF:-1,Desh TV
-https://live.shamim-iptv.workers.dev/DESHTV.m3u8
-
-#EXTINF:-1,Jago News 24
-https://live.shamim-iptv.workers.dev/jagonews24.m3u8
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1,Desh bideshe
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=225744&extension=ts&play_token=98HieIvfou
@@ -91,32 +82,17 @@ https://live.shamim-iptv.workers.dev/shemarootv.m3u8
 #EXTINF:-1,Zee Action
 https://live.shamim-iptv.workers.dev/zeeactio.m3u8
 
-#EXTINF:-1,GOLDMINES
-https://live.shamim-iptv.workers.dev/095goldmines.m3u8
-
-#EXTINF:-1,Goldmines Movies
-https://live.shamim-iptv.workers.dev/096goldminesmovies.m3u8
-
 #EXTINF:-1,Sci-fi
 https://live.shamim-iptv.workers.dev/scifi.m3u8
 
 #EXTINF:-1,MNX-HD
 https://live.shamim-iptv.workers.dev/mnxhd.m3u8
 
-#EXTINF:-1,Gopal Bhar
-https://live.shamim-iptv.workers.dev/gopalbhar.m3u8
-
-#EXTINF:-1,0. Tom and Jerry 2
-https://live.shamim-iptv.workers.dev/0tomandjerry2.m3u8
-
-#EXTINF:-1,0. Doraemon
-https://live.shamim-iptv.workers.dev/0doraemon.m3u8
-
 #EXTINF:-1,National Geography
 https://live.shamim-iptv.workers.dev/NATGEOHD.m3u8
 
 #EXTINF:-1,A SPORTS
-http://103.151.60.204:881/A-Sports/video.m3u8
+http://66.102.126.10:8000/play/a032/index.m3u8
 
 #EXTINF:-1,Euro TV
 https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
@@ -131,7 +107,7 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://live.shamim-iptv.workers.dev/STARSPORTS3.m3u8
 
 #EXTINF:-1,SONY SPORTS 1HD
-https://live.shamim-iptv.workers.dev/SONYTEN1HD.m3u8
+http://66.102.126.10:8000/play/a00o/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 2 HD
 https://live.shamim-iptv.workers.dev/SONYTEN2HD.m3u8
@@ -147,12 +123,6 @@ https://live.shamim-iptv.workers.dev/STARSPORTSSLIHD.m3u8
 
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
 https://live.shamim-iptv.workers.dev/STARSPORTS2HD.m3u8
-
-#EXTINF:-1,BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-#EXTINF:-1,Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1,News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
@@ -232,10 +202,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Music",tvg-logo="https://imgur.com/79g2kMA.png" group-title="Music",Zing
 http://103.159.180.34:5001/live/585.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",DHOOM MUSIC
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
-
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png", Fox Sports HD
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104678&extension=ts&play_token=4WeF0zcpvZ
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Cinema
@@ -375,3 +342,44 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 #EXTINF:-1,Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
+#EXTINF:-1 , Cineplex
+http://66.102.126.10:8000/play/a076/index.m3u8```
+
+#EXTINF:-1 ,KSA Sports 1
+http://66.102.126.10:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 ,Unite8 Sports 2 HD
+http://66.102.126.10:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 ,Nick Junior
+http://202.70.146.135:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 , Star Plus
+http://202.70.146.135:8000/play/a009/index.m3u8
+
+#EXTINF:-1 , Nick
+http://202.70.146.135:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 , 9xm Jalwa
+https://go.skym3u.top/live/7934d/3b1f0d3d404f706d333620080d025a282b12091102021c3047441c553c0656746b2a1523282832420c13072b2713420c5d165d.m3u8?t=6558&s=49b&id=ok4z.m3u
+#EXTINF:-1 , Boishakhi
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+
+#EXTINF:-1,Rajdhani
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1,Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+
+#EXTINF:-1,Ekushe TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+
+#EXTINF:-1,Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 , Star Gold T
+http://202.70.146.135:8000/play/a024/index.m3u8
+
+#EXTINF:-1 , Disney
+http://202.70.146.135:8000/play/a01q/index.m3u8
